@@ -4,7 +4,7 @@ import { HashLink } from 'react-router-hash-link';
 import { BsArrowRight, BsChevronDoubleDown, BsChevronDoubleUp } from "react-icons/bs";
 import { SiRuby, SiReact, SiJavascript, SiRails, SiAdobexd, SiAdobe, SiPostgresql, SiHtml5, SiCss3, SiVisualstudiocode, SiLinkedin, SiGithub, SiMedium, SiTwitter, SiInstagram } from "react-icons/si"
 import './App.css';
-import pic from "./images/business_pro.jpeg";
+import pic from "./images/chris.png";
 import {PROJECTS} from "./ProjectObjects.js"
 import ProjectsContainer from './Containers/ProjectsContainer';
 
@@ -17,9 +17,9 @@ function App() {
       <section className="header" id="landing">
         <div className="black-overlay">
           <div className="headline">
-            <h1 className="headline-words">HELLO, MY NAME IS <span className="headline-name">TOMAS</span></h1>
+            <h1 className="headline-words">HELLO, MY NAME IS <span className="headline-name">CHRIS</span></h1>
             <p className="headline-paragraph">I am a junior software engineer who specializes in <span className="headline-paragraph-span">React.js</span> and <span className="headline-paragraph-span">Ruby on Rails</span>.</p>
-            <p className="headline-paragraph">I also love journalism and coffee.</p>
+            <p className="headline-paragraph">I do stuff</p>
             
             <HashRouter>
               <HashLink className="route-button" smooth to="#about-section">
@@ -63,7 +63,7 @@ function App() {
                   <p>Below you will find my projects, contact and resume. Please reach out with any feedback!
                     I absolutely love connecting with new people.</p>
                   <p style={{horizontalAlign:"middle"}}>
-                  <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1pGcgmsuHV80UWSypiFAs7M_FVMZuCsJQXB6FvIHMa_0/edit?usp=sharing" style={{display: "inline-block"}}><button className="resume-button">
+                  <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1UUD2ffXNGHnfQ5oSKNhyFFb_JCsDzJFD6CW3tWSfiWQ/edit?usp=sharing" style={{display: "inline-block"}}><button className="resume-button">
                   Resume
                   </button></a>
                     <span style={{float: "right"}}>
