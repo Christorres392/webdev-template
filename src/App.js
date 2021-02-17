@@ -55,7 +55,7 @@ function App() {
               <div className="box-item1">
                   <p>Hi !</p>
                   <p>Thanks for taking the time to take a peek at my webpage!</p>
-                  <p>I'm a junior Full Stack software engineer who specializes in React.js and Ruby on Rails. I began my pursuit of life in the tech industry
+                  <p>I'm a junior Full Stack software engineer from San Antonio Tx who specializes in React.js and Ruby on Rails. I began my pursuit of life in the tech industry
                     with the hopes of helping push tech companies forward, the way I feel they are helping push the world forward with innovation. 
                     As a recent graduate from Flatiron School in Austin Tx, my passion for coding, the culture, and the people
                     has only grown.
@@ -110,16 +110,16 @@ function App() {
           <h1>Contact</h1>
         </div>
         <div>
-          <a className="hero-button" target="_blank" rel="noreferrer" href="mailto:r.tomas.gonzalez01@gmail.com">Email Me</a>
+          <a className="hero-button" target="_blank" rel="noreferrer" href="mailto:christorres09@gmail.com">Email Me</a>
         </div>
         
         <div className="contact-links-div" >
           <ul className="contact-links">
-            <li ><SiLinkedin style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://www.linkedin.com/in/rtomasgonzalez/')}} size="5.5vmin" /></li>
-            <li ><SiGithub style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://github.com/R-Tomas-Gonzalez')}} size="5.5vmin"/></li>
-            <li ><SiMedium style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://tomas-82726.medium.com/')}} size="5.5vmin"/></li>
-            <li ><SiTwitter style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://twitter.com/rtgonzalezimg')}} size="5.5vmin"/></li>
-            <li ><SiInstagram style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://www.instagram.com/r.tomasgonzalez/?hl=en')}} size="5.5vmin"/></li>
+            <li ><SiLinkedin style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://www.linkedin.com/in/chris-torres-4286471a2/')}} size="5.5vmin" /></li>
+            <li ><SiGithub style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://github.com/Christorres392')}} size="5.5vmin"/></li>
+            <li ><SiMedium style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://christorres09.medium.com/')}} size="5.5vmin"/></li>
+            {/* <li ><SiTwitter style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://twitter.com/rtgonzalezimg')}} size="5.5vmin"/></li>
+            <li ><SiInstagram style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://www.instagram.com/r.tomasgonzalez/?hl=en')}} size="5.5vmin"/></li> */}
           </ul>
           <div className="up-arrow">
           <HashRouter>
