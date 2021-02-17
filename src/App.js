@@ -18,8 +18,8 @@ function App() {
         <div className="black-overlay">
           <div className="headline">
             <h1 className="headline-words">HELLO, MY NAME IS <span className="headline-name">CHRIS</span></h1>
-            <p className="headline-paragraph">I am a junior software engineer who specializes in <span className="headline-paragraph-span">React.js</span> and <span className="headline-paragraph-span">Ruby on Rails</span>.</p>
-            <p className="headline-paragraph">I do stuff</p>
+            <p className="headline-paragraph">I am a junior software engineer who specializes in <span className="headline-paragraph-span">React.js</span> , <span className="headline-paragraph-span">Ruby on Rails</span> and <span className="headline-paragraph-span">Watching Scary Movies</span></p>
+            <p className="headline-paragraph">Welcome to my website</p>
             
             <HashRouter>
               <HashLink className="route-button" smooth to="#about-section">
@@ -53,23 +53,23 @@ function App() {
             </div>
             <div className="about-boxes">
               <div className="box-item1">
-                  <p>Hey there!</p>
-                  <p>So glad to have you on my website. I can't wait to get to know you!</p>
-                  <p>I am a junior Full Stack software engineer who specializes in React.js and Ruby on Rails. My goal is to work with
-                    top companies to advance my skills within the field. Flatiron School has been an integral part in my development as
-                    a software engineer. Also, my Bachelor of Arts in Journalism from the University of North Texas has taught me key communication,
-                    multimedia, copy writing, and marketing skills.
+                  <p>Hi !</p>
+                  <p>Thanks for taking the time to take a peek at my webpage!</p>
+                  <p>I'm a junior Full Stack software engineer who specializes in React.js and Ruby on Rails. I began my pursuit of life in the tech industry
+                    with the hopes of helping push tech companies forward, the way I feel they are helping push the world forward with innovation. 
+                    As a recent graduate from Flatiron School in Austin Tx, my passion for coding, the culture, and the people
+                    has only grown.
                   </p>
-                  <p>Below you will find my projects, contact and resume. Please reach out with any feedback!
-                    I absolutely love connecting with new people.</p>
+                  <p>You can find my projects, contact info, and resume below. Feel free to reach out to me!
+                    Whether you want to talk tech, or just have a good story to tell and are looking for a good listener.</p>
                   <p style={{horizontalAlign:"middle"}}>
                   <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1UUD2ffXNGHnfQ5oSKNhyFFb_JCsDzJFD6CW3tWSfiWQ/edit?usp=sharing" style={{display: "inline-block"}}><button className="resume-button">
                   Resume
                   </button></a>
                     <span style={{float: "right"}}>
-                      Cheers,
+                      Best Regards,
                       <br/>
-                      -Tomas</span>
+                      -Chris</span>
                   </p>
 
 
