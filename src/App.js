@@ -118,8 +118,8 @@ function App() {
             <li ><SiLinkedin style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://www.linkedin.com/in/chris-torres-4286471a2/')}} size="5.5vmin" /></li>
             <li ><SiGithub style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://github.com/Christorres392')}} size="5.5vmin"/></li>
             <li ><SiMedium style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://christorres09.medium.com/')}} size="5.5vmin"/></li>
-            {/* <li ><SiTwitter style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://twitter.com/rtgonzalezimg')}} size="5.5vmin"/></li>
-            <li ><SiInstagram style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://www.instagram.com/r.tomasgonzalez/?hl=en')}} size="5.5vmin"/></li> */}
+            {/* <li ><SiTwitter style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://twitter.com/')}} size="5.5vmin"/></li>
+            <li ><SiInstagram style={{cursor: "pointer"}} className="link-icon" onClick={(e) => {window.open('https://www.instagram.com/')}} size="5.5vmin"/></li> */}
           </ul>
           <div className="up-arrow">
           <HashRouter>
